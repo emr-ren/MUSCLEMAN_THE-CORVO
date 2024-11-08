@@ -1,0 +1,4 @@
+repository "Corvo@LordIncubus@cloud"
+  path "/"
+    br "/main"
+    co "/main"
